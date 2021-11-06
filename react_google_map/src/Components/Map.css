@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#inputType{
+    margin:20px;
+    height:30px;
+    width:150px;
+    position: relative;
+  left:10em;
+    padding: 10px;
+}
